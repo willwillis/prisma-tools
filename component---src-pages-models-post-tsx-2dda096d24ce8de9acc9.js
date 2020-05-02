@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[17],{hyAK:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),o=n.n(a),r=n("1Yd/"),c=n("HbBM");t.default=function(){return o.a.createElement(o.a.Fragment,null,o.a.createElement(r.a,{title:"Post"}),o.a.createElement(c.a,{model:"Post"}))}}}]);
-//# sourceMappingURL=component---src-pages-models-post-tsx-2dda096d24ce8de9acc9.js.map
