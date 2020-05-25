@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{QeBL:function(n,e,t){"use strict";t.r(e),t.d(e,"default",(function(){return i}));var c=t("ERkP"),u=t.n(c),a=t("Wbzz");function i(){return Object(c.useEffect)((function(){Object(a.navigate)("/dashboard")}),[]),u.a.createElement("div",null)}}}]);
-//# sourceMappingURL=component---src-pages-index-tsx-9f5e5672c6f9e4eee451.js.map

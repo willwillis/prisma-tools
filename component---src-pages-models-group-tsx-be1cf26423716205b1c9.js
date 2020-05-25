@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{MccE:function(e,n,t){"use strict";t.r(n);var a=t("ERkP"),r=t.n(a),c=t("1Yd/"),o=t("HbBM");n.default=function(){return r.a.createElement(r.a.Fragment,null,r.a.createElement(c.a,{title:"Group"}),r.a.createElement(o.a,{model:"Group"}))}}}]);
-//# sourceMappingURL=component---src-pages-models-group-tsx-be1cf26423716205b1c9.js.map

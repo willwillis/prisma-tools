@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[19],{ES0N:function(e,n,t){"use strict";t.r(n);var a=t("ERkP"),r=t.n(a),c=t("1Yd/"),l=t("HbBM");n.default=function(){return r.a.createElement(r.a.Fragment,null,r.a.createElement(c.a,{title:"User"}),r.a.createElement(l.a,{model:"User"}))}}}]);
-//# sourceMappingURL=component---src-pages-models-user-tsx-927efe498f5e3669a99b.js.map

@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{SJRY:function(e,n,t){"use strict";t.r(n);var a=t("ERkP"),m=t.n(a),o=t("1Yd/"),r=t("HbBM");n.default=function(){return m.a.createElement(m.a.Fragment,null,m.a.createElement(o.a,{title:"Comment"}),m.a.createElement(r.a,{model:"Comment"}))}}}]);
-//# sourceMappingURL=component---src-pages-models-comment-tsx-b6617c52a10ebe674471.js.map
